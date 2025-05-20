@@ -29,7 +29,7 @@
 
 ## 📌 Projetos Relevantes
 
-### 🔹 [Projeto Cantina (2024)]((https://github.com/joaoangra/Projeto-Cantina)
+### 🔹 [Projeto Cantina (2024)](https://github.com/joaoangra/Projeto-Cantina)
 > API RESTful construída com Java e Spring Boot, seguindo princípios de arquitetura limpa e segurança com JWT.
 
 ### 🔹 [Portfólio Pessoal HTML + CSS](https://github.com/SEU_USUARIO/portfolio-html-css)
