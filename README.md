@@ -29,7 +29,7 @@
 
 ## 📌 Projetos Relevantes
 
-### 🔹 [Projeto Cantina (2024)](https://github.com/SEU_USUARIO/nome-do-projeto)
+### 🔹 [Projeto Cantina (2024)]((https://github.com/joaoangra/Projeto-Cantina)
 > API RESTful construída com Java e Spring Boot, seguindo princípios de arquitetura limpa e segurança com JWT.
 
 ### 🔹 [Portfólio Pessoal HTML + CSS](https://github.com/SEU_USUARIO/portfolio-html-css)
@@ -40,8 +40,8 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoangra&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoangra&layout=compact&theme=transparent"/>
 </p>
 
 ---
